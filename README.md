@@ -20,9 +20,11 @@ File Name	Description
 • movies_list.pkl-	Pickle file that stores the processed movie dataset, including movie IDs, titles and combined text features (tags), used by the recommendation 
 system. 
 
-• Streamlit – Python framework used to create an interactive web application where users can select movies and view recommendations.
+• Streamlit– Python framework used to create an interactive web application where users can select movies and view recommendations.
 
-• TMDB API – Used to fetch movie details and posters from The Movie Database (TMDB) and display them in the application.
+• TMDB API– Used to fetch movie details and posters from The Movie Database (TMDB) and display them in the application.
+
+• .gitattributes– Configuration file that defines how Git handles specific files, including line-ending normalization and file type settings.
 
 
 • similarity.pkl-	Stores the precomputed Cosine Similarity scores between movies, which are used to find and recommend similar movies.
