@@ -26,7 +26,8 @@ system.
 
 • .gitattributes– Configuration file that defines how Git handles specific files, including line-ending normalization and file type settings.
 
+• similarity.pkl-	Stores the precomputed Cosine Similarity scores between movies, which are used to find and recommend similar movies. 
 
-• similarity.pkl-	Stores the precomputed Cosine Similarity scores between movies, which are used to find and recommend similar movies.
+• requirements.txt – Contains all the Python libraries and dependencies required to run the project.
 
 • secrets.toml-	Stores the TMDB API key securely, allowing the application to fetch movie details and posters from the TMDB API.
