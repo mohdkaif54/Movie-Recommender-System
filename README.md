@@ -17,7 +17,13 @@ File Name	Description
 
 • dataset.csv-	Contains 10,000 movie records with details such as movie ID, title, genre, overview, release date, popularity and ratings. 
 
-• movies_list.pkl-	Pickle file that stores the processed movie dataset, including movie IDs, titles and combined text features (tags), used by the recommendation system.
+• movies_list.pkl-	Pickle file that stores the processed movie dataset, including movie IDs, titles and combined text features (tags), used by the recommendation 
+system. 
+
+• Streamlit – Python framework used to create an interactive web application where users can select movies and view recommendations.
+
+• TMDB API – Used to fetch movie details and posters from The Movie Database (TMDB) and display them in the application.
+
 
 • similarity.pkl-	Stores the precomputed Cosine Similarity scores between movies, which are used to find and recommend similar movies.
 
