@@ -4,7 +4,7 @@ The Movie Recommendation System is a Machine Learning project that recommends mo
 
 The system uses Natural Language Processing (NLP) techniques, including CountVectorizer, to convert movie descriptions and genres into numerical vectors. It then applies Cosine Similarity to calculate the similarity between movies and recommend the top 5 most similar movies. 
 
-You can run the app here- 
+You can run the app here- https://movie-recommender-system-em5jyzskttgqiuor546mfk.streamlit.app/
 
 The project is developed using Python, Pandas, Scikit-learn and Streamlit. It also integrates the TMDB API to fetch and display movie posters, providing an interactive and user-friendly interface.
 
